@@ -45,8 +45,8 @@ Retrieval Augmented Generation (RAG) combines the power of large language models
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repo-link>
-    cd <your-repo-name>
+    git clone <repo-link>
+    cd <repo-name>
     ```
 2.  **Open in Google Colab**:
     Upload the `.ipynb` file to Google Colab.
